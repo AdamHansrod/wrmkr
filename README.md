@@ -3,7 +3,7 @@ WarRecommendr
 
 Installation: 
 
-* Clone down `git clone git@github.com:Joeao/wrmkr.git`
+* Clone down `git clone git@github.com:AdamHansrod/wrmkr.git`
 * Run `chmod o+w config.json`
 
 Usage:
